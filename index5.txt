@@ -1,0 +1,17 @@
+Answer 4
+									TAG
+html is a markup language and markup language written between angular brackets.
+		Two tpes of tag 
+			1-- paired tag( <p> </p>, <b> </b>,<i> </i>)
+			2--unpaired tag(<br>,<hr>,<img>)
+	Tag define the purpose and structure of the webpage.
+			    <B>        HELLO WORLD       </B>
+				|							|
+			Opening tag				Closing tag
+ 
+						Element
+An HTML Element is a part of an HTML document that tells a web browser how to structure the HTML document.
+ 				<B>        	   HELLO WORLD              	</B>
+				   |						|	          		     |
+			Opening tag			Element					Closing tag
+ 
