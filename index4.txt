@@ -1,0 +1,2 @@
+answer-5 
+DOCTYPE = <DOCTYPE> is used for specifying the version of html document and HTML5  the latest version of html. 
